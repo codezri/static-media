@@ -1,3 +1,3 @@
 # Licenses
 
-- Redshot: https://www.reshot.com/license/
+- Reshot: https://www.reshot.com/license/
